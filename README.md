@@ -43,9 +43,8 @@ Updated daily :) If it was helpful please press a star.
 
 # Languages Proficiency
 
-### C | Challenges: 21/25 | Points: 410 | Rank: 1656
+### C Programming | Challenges
+
 - [Introduction](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Introduction)
 - [Conditionals and Loops](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Conditionals%20and%20Loops)
-- [Arrays and Strings](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Arrays%20and%20Strings)
-- [Functions](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Functions)
-- [Structs and Enums](https://github.com/MrinmoiHossain/HackerRank/tree/master/C/Structs%20and%20Enums)
+- [Arrays and Strings](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Arrays%20and%20Strings)
