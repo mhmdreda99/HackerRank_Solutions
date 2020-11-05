@@ -3,7 +3,7 @@
 # Solutions to Hackerrank practice problems
 This repository contains  solutions to Hackerrank practice problems with Python 3, C,C++ ,Algorithms , Datastructure and more..
 
-Updated daily :) If it was helpful please press a star.
+Updated daily  If it was helpful please press a star :).
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mhmdreda99/HackerRank_Solutions.svg)](https://github.com/mhmdreda99/HackerRank_Solutions) 
 [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/mhmdreda99/HackerRank_Solutions.svg)](https://github.com/mhmdreda99/HackerRank_Solutions)
@@ -36,15 +36,16 @@ Updated daily :) If it was helpful please press a star.
         - Climbing the Leaderboard | [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/017.%20Climbing%20the%20Leaderboard.py) | Score: 20
         - The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/018.%20The%20Hurdle%20Race.py) | Score: 15
 
-- C++
-    1.  Introduction
-        - Say Hello, World! With Cpp | [Problem](https://www.hackerrank.com/challenges/cpp-hello-world/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/C++/01.%20Introduction/001.%20Say%20Hello,%20World!%20With%20Cpp.cpp) | Score: 10
 
 
 # Languages Proficiency
 
 ### C Programming | Challenges
 
-- [Introduction](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Introduction)
-- [Conditionals and Loops](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Conditionals%20and%20Loops)
-- [Arrays and Strings](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Arrays%20and%20Strings)
+ - [Introduction](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Introduction)
+ - [Conditionals and Loops](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Conditionals%20and%20Loops)
+ - [Arrays and Strings](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Arrays%20and%20Strings)
+
+### Python | Challenges
+ - [Introduction](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/Python%20Problems/Intro)
+ - [Basic Data Types](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/Python%20Problems/Datatypes)
