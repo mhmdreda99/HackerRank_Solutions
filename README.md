@@ -40,6 +40,30 @@ Updated daily  If it was helpful please press a star :).
         - Finding the percentage | [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Datatypes/Finding%20the%20percentage.py) | Score: 10
         - Lists | [Problem](https://www.hackerrank.com/challenges/python-lists/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Datatypes/Lists.py) | Score: 10
         - Tuples | [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Datatypes/Tuples.py) | Score: 10      
-      
-        
+#Algorithms      
+- Python Algorithms
+    1.  Warmup
+        - Solve Me First | [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Worm-up/001.%20Solve%20Me%20First.py) | Score: 1
+        - Simple Array Sum | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Worm-up/002.%20Simple%20Array%20Sum.py) | Score: 10
+        - Compare the Triplets | [Problem](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Worm-up/003.%20Compare%20the%20Triplets.py) | Score: 10
+        - A Very Big Sum | [Problem](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | [Solution](http://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Worm-up/004.%20A%20Very%20Big%20Sum.py) | Score: 10
+        - Diagonal Difference | [Problem](https://www.hackerrank.com/challenges/diagonal-difference/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Worm-up/005.%20Diagonal%20Difference.py) | Score: 10
+        - Plus Minus | [Problem](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Worm-up/006.%20Plus%20Minus.py) | Score: 10
+        - Staircase | [Problem](https://www.hackerrank.com/challenges/staircase/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Worm-up/007.%20Staircase.py) | Score: 10
+        - Mini-Max Sum | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Worm-up/008.%20Mini-Max%20Sum.py) | Score: 10
+        - Birthday Cake Candles | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Worm-up/009.%20Birthday%20Cake%20Candles.py) | Score: 10
+        - Time Conversion | [Problem](https://www.hackerrank.com/challenges/time-conversion/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Worm-up/010.%20Time%20Conversion.py) | Score: 15
+    2.  Implementation
+        - Grading Students | [Problem](https://www.hackerrank.com/challenges/grading/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/001.%20Grading%20Students.py) | Score: 10
+        - Apple and Orange | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/002.%20Apple%20and%20Orange.py) | Score: 10
+        - Kangaroo | [Problem](https://www.hackerrank.com/challenges/kangaroo/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/003.%20Kangaroo.py) | Score: 10
+        - Between Two Sets | [Problem](https://www.hackerrank.com/challenges/between-two-sets/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/004.%20Between%20Two%20Sets.py) | Score: 10
+        - Breaking the Records | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/005.%20Breaking%20the%20Records.py) | Score: 10
+        - Birthday Chocolate | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/006.%20Birthday%20Chocolate.py) | Score: 10
+        - Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/013.%20Electronics%20Shop.py) | Score: 15
+        - Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/014.%20Cats%20and%20a%20Mouse.py) | Score: 15
+        - Forming a Magic Square | [Problem](https://www.hackerrank.com/challenges/magic-square-forming) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/015.%20Forming%20a%20Magic%20Square.py) | Score: 20
+        - Picking Numbers | [Problem](https://www.hackerrank.com/challenges/picking-numbers) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/016.%20Picking%20Numbers.py) | Score: 20
+        - Climbing the Leaderboard | [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/017.%20Climbing%20the%20Leaderboard.py) | Score: 20
+        - The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/018.%20The%20Hurdle%20Race.py) | Score: 15        
         
