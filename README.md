@@ -24,5 +24,22 @@ Updated daily  If it was helpful please press a star :).
 ### Python | Challenges
  - Python
     01. Introduction
-        - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Intro/helloworld.py) | Score: 5
+      - Say Hello, World! With Python | [Problem](https://www.hackerrank.com/challenges/py-hello-world/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Intro/helloworld.py) | Score: 5
+  
+     - Python If-Else | [Problem](https://www.hackerrank.com/challenges/py-if-else/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Intro/002.%20%20If-Else.py) | Score: 10
+        
+     - Arithmetic Operators | [Problem](https://www.hackerrank.com/challenges/python-arithmetic-operators/submissions/code/70402456) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Intro/003.%20Arithmetic%20Operators.py) | Score: 10
+        - Python Division | [Problem](https://www.hackerrank.com/challenges/python-division/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Intro/004.%20Python%20Division.py) | Score: 10
+        - Loops | [Problem](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Intro/005.%20Loops.py) | Score: 10
+        - Write a function | [Problem](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Intro/006.%20Write%20a%20function.py) | Score: 10
+        - Print Function | [Problem](https://www.hackerrank.com/challenges/python-print/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/01.%20Introduction/007.%20Print%20Function.py) | Score: 20
+    2.  Basic Data Types
+        - List Comprehensions | [Problem](https://www.hackerrank.com/challenges/list-comprehensions/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Datatypes/List%20Comprehensions.py) | Score: 10
+        - Find the Runner-Up Score! | [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/02.%20Basic%20Data%20Types/002.%20Find%20the%20Runner-Up%20Score!.py) | Score: 10
+        - Nested Lists | [Problem](https://www.hackerrank.com/challenges/nested-list/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Datatypes/Nested%20Lists.py) | Score: 10
+        - Finding the percentage | [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Datatypes/Finding%20the%20percentage.py) | Score: 10
+        - Lists | [Problem](https://www.hackerrank.com/challenges/python-lists/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Datatypes/Lists.py) | Score: 10
+        - Tuples | [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Datatypes/Tuples.py) | Score: 10      
+      
+        
         
