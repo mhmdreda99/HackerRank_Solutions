@@ -40,7 +40,7 @@ Updated daily  If it was helpful please press a star :).
         - Finding the percentage | [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Datatypes/Finding%20the%20percentage.py) | Score: 10
         - Lists | [Problem](https://www.hackerrank.com/challenges/python-lists/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Datatypes/Lists.py) | Score: 10
         - Tuples | [Problem](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Python/Datatypes/Tuples.py) | Score: 10      
-#Algorithms      
+# Algorithms      
 - Python Algorithms
     1.  Warmup
         - Solve Me First | [Problem](https://www.hackerrank.com/challenges/solve-me-first/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Worm-up/001.%20Solve%20Me%20First.py) | Score: 1
