@@ -20,6 +20,7 @@ Updated daily  If it was helpful please press a star :).
  - [Introduction](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Introduction)
  - [Conditionals and Loops](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Conditionals%20and%20Loops)
  - [Arrays and Strings](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Arrays%20and%20Strings)
+ - [Functions](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Functions)
 
 ### Python | Challenges
  - Python
