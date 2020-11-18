@@ -1,9 +1,21 @@
+/**
+ * @file Students Marks Sum.c
+ * @author your name (you@domain.com)
+ * @brief 
+ * @version 0.1
+ * @date 2020-11-19
+ * 
+ * @copyright Copyright (c) 2020
+ * 
+ */
+
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
 
-//Complete the following function.
+
 int marks_summation(int* marks, int number_of_students, char gender)
 {
     int sum = 0;
