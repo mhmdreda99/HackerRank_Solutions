@@ -66,5 +66,4 @@ Updated daily  If it was helpful please press a star :).
         - Forming a Magic Square | [Problem](https://www.hackerrank.com/challenges/magic-square-forming) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/015.%20Forming%20a%20Magic%20Square.py) | Score: 20
         - Picking Numbers | [Problem](https://www.hackerrank.com/challenges/picking-numbers) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/016.%20Picking%20Numbers.py) | Score: 20
         - Climbing the Leaderboard | [Problem](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/017.%20Climbing%20the%20Leaderboard.py) | Score: 20
-        - The Hurdle Race | [Problem](https://www.hackerrank.com/challenges/the-hurdle-race/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/018.%20The%20Hurdle%20Race.py) | Score: 15        
-        
+       
