@@ -64,5 +64,4 @@ Updated daily  If it was helpful please press a star :).
         - Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/013.%20Electronics%20Shop.py) | Score: 15
         - Cats and a Mouse | [Problem](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/014.%20Cats%20and%20a%20Mouse.py) | Score: 15
         - Forming a Magic Square | [Problem](https://www.hackerrank.com/challenges/magic-square-forming) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/015.%20Forming%20a%20Magic%20Square.py) | Score: 20
-        - Picking Numbers | [Problem](https://www.hackerrank.com/challenges/picking-numbers) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/02.%20Implementation/016.%20Picking%20Numbers.py) | Score: 20
         
