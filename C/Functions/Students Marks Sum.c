@@ -15,7 +15,14 @@
 #include <math.h>
 #include <stdlib.h>
 
-
+/**
+ * @brief 
+ * 
+ * @param marks 
+ * @param number_of_students 
+ * @param gender 
+ * @return int 
+ */
 int marks_summation(int* marks, int number_of_students, char gender)
 {
     int sum = 0;
