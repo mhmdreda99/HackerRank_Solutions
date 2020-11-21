@@ -37,7 +37,13 @@ int sum(int count, ...)
     }
     return t;
 }
-
+/**
+ * @brief 
+ * 
+ * @param count 
+ * @param ... 
+ * @return int 
+ */
 int min(int count, ...)
 {
     va_list arr;
@@ -49,7 +55,13 @@ int min(int count, ...)
     }
     return mn;
 }
-
+/**
+ * @brief 
+ * 
+ * @param count 
+ * @param ... 
+ * @return int 
+ */
 int max(int count, ...)
 {
     va_list arr;
@@ -104,7 +116,11 @@ int test_implementations_by_sending_three_elements() {
     
     return elements_sum == expected_elements_sum;
 }
-
+/**
+ * @brief 
+ * 
+ * @return int 
+ */
 int test_implementations_by_sending_five_elements() {
     srand(time(NULL));
     
@@ -145,6 +161,11 @@ int test_implementations_by_sending_five_elements() {
     
     return elements_sum == expected_elements_sum;
 }
+/**
+ * @brief 
+ * 
+ * @return int 
+ */
 
 int test_implementations_by_sending_ten_elements() {
     srand(time(NULL));

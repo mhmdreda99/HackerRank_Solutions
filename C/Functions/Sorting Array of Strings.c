@@ -1,3 +1,15 @@
+/**
+ * @file Sorting Array of Strings.c
+ * @author Mohmaed Reda (mhmdreda99@github.com)
+ * @brief To sort a given array of strings into lexicographically increasing order or into an order in which the string with the 
+ * lowest length appears first, a sorting function with a flag indicating the type of comparison strategy can be written. The disadvantage with doing so is having to rewrite the function for every new comparison strategy.
+A better implementation would be to write a sorting function that accepts a pointer to the function that compares each pair of strings. Doing this will mean only passing a pointer to the sorting function with every new comparison strategy.
+ * @version 0.1
+ * @date 2020-11-21
+ * 
+ * @copyright Copyright (c) 2020
+ * 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
