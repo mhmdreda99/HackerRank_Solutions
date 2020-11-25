@@ -4,7 +4,7 @@ if __name__ == '__main__':
     z = int(input())
     n = int(input())
     arr = []
-    p = 0
+    p = 0 #permutation  variable
     
     for i in range (x + 1):
         for j in range (y + 1):
