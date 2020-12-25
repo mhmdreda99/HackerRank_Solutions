@@ -15,7 +15,7 @@ Updated daily  If it was helpful please press a star :).
 
 # Languages Proficiency
 
-### C Programming | Challenges
+### C Programming | Challenges 
 
  
  - [Introduction](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Introduction)
@@ -24,6 +24,8 @@ Updated daily  If it was helpful please press a star :).
  - [Arrays and Strings](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Arrays%20and%20Strings)
  - [Functions](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Functions)
  - [Structs and Enums](https://github.com/mhmdreda99/HackerRank_Solutions/tree/master/C/Structs%20and%20Enums)
+ 
+ ### update (finished)
 
 ### Python | Challenges
  - Python
