@@ -65,4 +65,11 @@ Updated daily  If it was helpful please press a star :).
         - Breaking the Records | [Problem](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Implement/005.Breaking%20the%20Records.py) | Score: 10
         - Birthday Chocolate | [Problem](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Implement/006.%20Birthday%20Chocolate.py) | Score: 10
         - Electronics Shop | [Problem](https://www.hackerrank.com/challenges/electronics-shop/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Algorithms/Python/Implement/013.%20Electronics%20Shop.py) | Score: 15
-  - 
+
+# Data Stuructures
+ ## pyhton version
+1. Arrays
+    - Arrays-DS | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/DataStructure/python/Arrays/Arrays-DS.py) 
+ ## C version
+ 1. Arrays
+    - Arrays-DS | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/DataStructure/C/Arrays/Arrays-DS.c) 
