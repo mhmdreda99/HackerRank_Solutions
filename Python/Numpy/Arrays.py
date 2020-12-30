@@ -1,3 +1,5 @@
+
+#reverse input array
 import numpy
 
 def arrays(arr):
