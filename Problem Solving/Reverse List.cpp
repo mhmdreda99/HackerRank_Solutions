@@ -36,14 +36,14 @@ class SinglyLinkedList {
         }
 };
 
-void print_singly_linked_list(SinglyLinkedListNode* node, string sep) {
+void print_singly_linked_list(SinglyLinkedListNode* node, string sep, ofstream& fout) {
     while (node) {
-        cout << node->data;
+        fout << node->data;
 
         node = node->next;
 
         if (node) {
-            cout << sep;
+            fout << sep;
         }
     }
 }
@@ -58,8 +58,9 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
 }
 
 /*
- * Complete the 'reversePrint' function below.
+ * Complete the 'reverse' function below.
  *
+ * The function is expected to return an INTEGER_SINGLY_LINKED_LIST.
  * The function accepts INTEGER_SINGLY_LINKED_LIST llist as parameter.
  */
 
@@ -72,28 +73,27 @@ void free_singly_linked_list(SinglyLinkedListNode* node) {
  * };
  *
  */
+SinglyLinkedListNode* reverse(SinglyLinkedListNode* llist) {
+    SinglyLinkedListNode* prev = nullptr;
+    SinglyLinkedListNode* current = llist;
+    SinglyLinkedListNode* next = nullptr;
 
-void reversePrint(SinglyLinkedListNode* llist) {
-    SinglyLinkedListNode* temp =llist;
-    // define a vector to store the data
-    vector<int> v;
-    // psuh the data into the vector in reverse order
-    while(temp!= nullptr){
-        v.push_back(temp->data);
-        temp= temp->next;
+    while (current != nullptr) {
+        next = current->next;  // Store the next node
+        current->next = prev;  // Reverse the link
+        prev = current;  // Move prev and current one step forward
+        current = next;
     }
-    // print the data in reverse order from the vector
-    for (int i = v.size()-1 ; i >= 0 ;i--){
-        cout<<v[i] <<"\n";
-    }
-    // free the memory
-    free_singly_linked_list(llist);
-    
 
+    llist = prev;  // Change head to the new front
+
+    return llist;  // Return the reversed linked list
 }
 
 int main()
 {
+    ofstream fout(getenv("OUTPUT_PATH"));
+
     int tests;
     cin >> tests;
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
@@ -113,8 +113,15 @@ int main()
             llist->insert_node(llist_item);
         }
 
-        reversePrint(llist->head);
+        SinglyLinkedListNode* llist1 = reverse(llist->head);
+
+        print_singly_linked_list(llist1, " ", fout);
+        fout << "\n";
+
+        free_singly_linked_list(llist1);
     }
+
+    fout.close();
 
     return 0;
 }

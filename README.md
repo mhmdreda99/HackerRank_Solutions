@@ -75,3 +75,10 @@ Updated daily  If it was helpful please press a star :).
  ## C version
  1. Arrays
     - Arrays-DS | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/DataStructure/C/Arrays/Arrays-DS.c) 
+# Problem Solving 
+ ## C++ version
+   
+ 1. Warmup 
+    - Array Manipulation | [Problem](https://www.hackerrank.com/challenges/crush/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Problem%20Solving/array%20manuiplation.cpp)
+     - Sparse Arrays | [Problem](https://www.hackerrank.com/challenges/sparse-arrays/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Problem%20Solving/Sparse%20Arrays.cpp)
+     - Plus Minus | [Problem](https://www.hackerrank.com/challenges/plus-minus/problem) | [Solution](https://github.com/mhmdreda99/HackerRank_Solutions/blob/master/Problem%20Solving/plus%20minus.cpp)
