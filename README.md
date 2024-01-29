@@ -4,7 +4,7 @@
 
  This repository contains  solutions to Hackerrank practice problems with Python 3, C,C++ ,Algorithms , Datastructure and more..
 
-Updated daily  If it was helpful please press a star :). 
+Updated Monthly If it was helpful please press a star :). 
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/mhmdreda99/HackerRank_Solutions.svg)](https://github.com/mhmdreda99/HackerRank_Solutions) 
 [![GitHub commit activity the past week, 4 weeks, year](https://img.shields.io/github/commit-activity/y/mhmdreda99/HackerRank_Solutions.svg)](https://github.com/mhmdreda99/HackerRank_Solutions)
